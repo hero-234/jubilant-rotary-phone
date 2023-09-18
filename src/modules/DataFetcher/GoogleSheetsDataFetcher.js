@@ -1,7 +1,7 @@
 import {ProblemInfo,ProblemInfoList,  CompanyProblemInfo, CompanyProblemInfoList, ProblemArray, ProblemT, ProblemTag} from "../Objects"
 
 class GoogleSheetsAPIManager{   
-    static API_KEY =  "AIzaSyDDDd9Yyr2ZrAzmPb4oUkTKBtE9Z_LbSDM"
+    static API_KEY =  "AIzaSyCqIigWRiA3yuSr2zlgUWZ6pLU8Z2U4Pjc"
     static SHEETS_ID =  "16CRPWOs_K4m1rVvDLcUmAd0UejIwhdQSIYFyXFX5kEw"
     static TESTING_SHEETS_ID = "1TJUhILyqBYsXWaPSUGwN1EvzBFeRNg1MgXH_SVqjQJo"
 
